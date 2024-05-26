@@ -5,5 +5,33 @@
     "title": "Sandbox",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "favorites.html",
+    "href": "favorites.html",
+    "title": "Favorites",
+    "section": "",
+    "text": "Dolomite Mountains in Italy\nVilcabamba, Equador,\nButterfly Valley, Turkey"
+  },
+  {
+    "objectID": "favorites.html#favorite-destinations",
+    "href": "favorites.html#favorite-destinations",
+    "title": "Favorites",
+    "section": "",
+    "text": "Dolomite Mountains in Italy\nVilcabamba, Equador,\nButterfly Valley, Turkey"
+  },
+  {
+    "objectID": "favorites.html#favorite-dog-breeds",
+    "href": "favorites.html#favorite-dog-breeds",
+    "title": "Favorites",
+    "section": "Favorite Dog Breeds",
+    "text": "Favorite Dog Breeds\n\nRescue mix breed\nSiberian Huskey\nGerman Shepherd\nAustralian Shepherd"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
